@@ -1,0 +1,10 @@
+A5SaveTimeStamp:20171107093105149
+css:iOS7
+cssIcon:font-awesome
+subComponent:admin.a5wcmp
+subComponent:tec.a5wcmp
+copyfile:{C:\Users\Desarrollador\Documents\Prototipo Nubison division Minera\nubisonMinera.WebProjects\Default.WebProject\img\logoNubison.png}
+subComponent:admin
+subComponent:tec
+precomputedUXComponent: {functionName: 'PRECOMPUTEDUX_d5393668c0c641998673540a6fdf4ea0_admin', uxname: 'admin', alias: '{alias}_ADMIN_155030IAIH'}
+precomputedUXComponent: {functionName: 'PRECOMPUTEDUX_66feba512c5b401e80e7becd0a672ea7_tec', uxname: 'tec', alias: '{alias}_TEC_14140EKMB'}

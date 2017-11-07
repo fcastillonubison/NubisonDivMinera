@@ -1,0 +1,631 @@
+<PubHist<[1]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\admin.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:08 61 pm')>
+>
+<[2]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\login.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:08 68 pm')>
+>
+<[3]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\tec.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:29:59 70 pm')>
+>
+<[4]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:08 91 pm')>
+>
+<[5]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:08 91 pm')>
+>
+<[6]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:08 92 pm')>
+>
+<[7]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:29:59 84 pm')>
+>
+<[8]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:30:00 04 pm')>
+>
+<[9]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:30:00 16 pm')>
+>
+<[10]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.eot}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:09 38 pm')>
+>
+<[11]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.svg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:09 38 pm')>
+>
+<[12]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:09 38 pm')>
+>
+<[13]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:09 38 pm')>
+>
+<[14]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:09 39 pm')>
+>
+<[15]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome.otf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:09 39 pm')>
+>
+<[16]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\9patchsplashscreen.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:09 39 pm')>
+>
+<[17]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\isotipo.ico}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:09 40 pm')>
+>
+<[18]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\isotipo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:09 40 pm')>
+>
+<[19]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\landscapesplashscreen.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:09 40 pm')>
+>
+<[20]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\logo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:09 41 pm')>
+>
+<[21]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\logonubison.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:30:00 16 pm')>
+>
+<[22]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\nopic.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:09 41 pm')>
+>
+<[23]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\portraitsplashscreen.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:09 42 pm')>
+>
+<[24]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\sqllite}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:09 42 pm')>
+>
+<[25]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\t1.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:30:00 17 pm')>
+>
+<[26]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\t2.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:09 43 pm')>
+>
+<[27]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\t3.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:09 44 pm')>
+>
+<[28]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\t4.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:09 44 pm')>
+>
+<[29]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\js\materialize.min.js}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:09 47 pm')>
+>
+<[30]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\logo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:09 47 pm')>
+>
+<[31]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\nopic.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:09 48 pm')>
+>
+<[32]<type="A5WPage">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\index.a5w}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:09:08 30 pm')>
+>
+<[33]<type="calendaricons">
+<name="calendaricons">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 12:52:39 81 pm')>
+>
+<[34]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:30:00 15 pm')>
+>
+<[35]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\wrench.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_520\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 03:30:00 17 pm')>
+>
+<[36]<type="A5WPage">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\index.a5w}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:48 73 pm')>
+>
+<[37]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\admin.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:49 07 pm')>
+>
+<[38]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\login.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:49 12 pm')>
+>
+<[39]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\tec.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:49 40 pm')>
+>
+<[40]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:49 41 pm')>
+>
+<[41]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:49 42 pm')>
+>
+<[42]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:49 42 pm')>
+>
+<[43]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:49 88 pm')>
+>
+<[44]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 25 pm')>
+>
+<[45]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 35 pm')>
+>
+<[46]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.eot}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 35 pm')>
+>
+<[47]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.svg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 35 pm')>
+>
+<[48]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 36 pm')>
+>
+<[49]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 36 pm')>
+>
+<[50]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 36 pm')>
+>
+<[51]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome.otf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 36 pm')>
+>
+<[52]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\guagehi.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 37 pm')>
+>
+<[53]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\guagelo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 37 pm')>
+>
+<[54]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\guageok.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 37 pm')>
+>
+<[55]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\9patchsplashscreen.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 38 pm')>
+>
+<[56]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\guagehi.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 38 pm')>
+>
+<[57]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\guagelo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 38 pm')>
+>
+<[58]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\guageok.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 39 pm')>
+>
+<[59]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\isotipo.ico}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 39 pm')>
+>
+<[60]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\isotipo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 39 pm')>
+>
+<[61]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\landscapesplashscreen.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 40 pm')>
+>
+<[62]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\logo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 40 pm')>
+>
+<[63]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\logonubison.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 41 pm')>
+>
+<[64]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\nopic.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 41 pm')>
+>
+<[65]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\portraitsplashscreen.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 42 pm')>
+>
+<[66]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\pumpjack2.gif}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 46 pm')>
+>
+<[67]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\sqllite}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 46 pm')>
+>
+<[68]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\t1.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 46 pm')>
+>
+<[69]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\t2.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 46 pm')>
+>
+<[70]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\t3.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 47 pm')>
+>
+<[71]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\t4.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 47 pm')>
+>
+<[72]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\wrench.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 47 pm')>
+>
+<[73]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\js\materialize.min.js}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 48 pm')>
+>
+<[74]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\logo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 48 pm')>
+>
+<[75]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\nopic.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 48 pm')>
+>
+<[76]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\wrench.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 58 pm')>
+>
+<[77]<type="calendaricons">
+<name="calendaricons">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 04:22:11 74 pm')>
+>
+<[78]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:35:49 63 pm')>
+>
+<[79]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\pumpjack2.gif}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 57 pm')>
+>
+<[80]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\movie.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 48 pm')>
+>
+<[81]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\movie.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8776\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('06/11/2017 05:47:50 41 pm')>
+>
+<[82]<type="A5WPage">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\index.a5w}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:21 23 am')>
+>
+<[83]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\admin.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 10:20:44 98 am')>
+>
+<[84]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\login.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:21 65 am')>
+>
+<[85]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\tec.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 10:19:35 02 am')>
+>
+<[86]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:21 93 am')>
+>
+<[87]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:21 93 am')>
+>
+<[88]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:21 94 am')>
+>
+<[89]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 10:20:45 12 am')>
+>
+<[90]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 10:20:45 33 am')>
+>
+<[91]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 10:20:45 44 am')>
+>
+<[92]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.eot}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 40 am')>
+>
+<[93]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.svg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 40 am')>
+>
+<[94]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 40 am')>
+>
+<[95]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 41 am')>
+>
+<[96]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 41 am')>
+>
+<[97]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome.otf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 41 am')>
+>
+<[98]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\guagehi.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 42 am')>
+>
+<[99]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\guagelo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 42 am')>
+>
+<[100]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\guageok.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 42 am')>
+>
+<[101]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\9patchsplashscreen.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 42 am')>
+>
+<[102]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\guagehi.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 43 am')>
+>
+<[103]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\guagelo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 43 am')>
+>
+<[104]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\guageok.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 44 am')>
+>
+<[105]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\isotipo.ico}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 44 am')>
+>
+<[106]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\isotipo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 44 am')>
+>
+<[107]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\landscapesplashscreen.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 45 am')>
+>
+<[108]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\logonubison.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 10:20:45 45 am')>
+>
+<[109]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\movie.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 45 am')>
+>
+<[110]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\nopic.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 46 am')>
+>
+<[111]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\portraitsplashscreen.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 46 am')>
+>
+<[112]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\pumpjack2.gif}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 46 am')>
+>
+<[113]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\sqllite}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 47 am')>
+>
+<[114]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\t1.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 10:20:45 45 am')>
+>
+<[115]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\t2.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 10:20:45 45 am')>
+>
+<[116]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\t3.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 10:20:45 45 am')>
+>
+<[117]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\t4.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 10:20:45 46 am')>
+>
+<[118]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\img\wrench.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 48 am')>
+>
+<[119]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\js\materialize.min.js}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 48 am')>
+>
+<[120]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\logo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 49 am')>
+>
+<[121]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\movie.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 10:20:45 46 am')>
+>
+<[122]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\nopic.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:31:22 49 am')>
+>
+<[123]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\pumpjack2.gif}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 10:20:45 46 am')>
+>
+<[124]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division minera\nubisonminera.webprojects\default.webproject\wrench.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 10:20:45 46 am')>
+>
+<[125]<type="calendaricons">
+<name="calendaricons">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 09:04:43 72 am')>
+>
+<[126]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_14620\temphttp___nubisonlab_cl___1580\nubisonminera">
+<timestamp=CTODT('07/11/2017 10:20:45 43 am')>
+>
+>
