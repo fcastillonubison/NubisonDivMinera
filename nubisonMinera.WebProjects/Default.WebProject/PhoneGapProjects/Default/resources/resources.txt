@@ -1,11 +1,11 @@
 {
-	"_id": "2896847",
-	"_icon": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division Minera\\nubisonMinera.WebProjects\\Default.WebProject\\img\\isotipo.png",
+	"_id": "",
+	"_icon": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division Minera\\nubisonMinera.WebProjects\\Default.WebProject\\img\\icons8-earth-element-96-ICON.png",
 	"_ssL": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division Minera\\nubisonMinera.WebProjects\\Default.WebProject\\img\\landscapeSplashScreen.png",
 	"_ssP": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division Minera\\nubisonMinera.WebProjects\\Default.WebProject\\img\\portraitSplashScreen.png",
 	"_ssA9": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division Minera\\nubisonMinera.WebProjects\\Default.WebProject\\img\\9patchSplashScreen.png",
 	"_initialUxComponent": "login",
-	"_componentLastUpdated": "15/11/2017 03:29:13 39 pm",
+	"_componentLastUpdated": "27/11/2017 11:01:52 94 am",
 	"_ajaxUrl": "http://nubisonlab.cl:1580/nubisonminera/",
 	"_additionalFiles": "guagehi.png\nguagelo.png\nguageok.png\nlogo.png\nmovie.png\nnoPic.jpg\npumpjack2.gif\nwrench.png\nimg\\t1.jpg\nimg\\t2.jpg\nimg\\logoNubison.png\nimg\\noPic.jpg",
 	"_userName": "wtwx6irfQI3iOx7OvgJt1zo2UrrNaJJqmN8Feh/S5gI=",
@@ -33,5 +33,6 @@
 	"_windowsBuildFlag": false,
 	"launchAppManager": true,
 	"_sqlitedbdefined": false,
-	"cliProjectFolder": ""
+	"cliProjectFolder": "",
+	"_phonegapBuilderVersion": "1"
 }

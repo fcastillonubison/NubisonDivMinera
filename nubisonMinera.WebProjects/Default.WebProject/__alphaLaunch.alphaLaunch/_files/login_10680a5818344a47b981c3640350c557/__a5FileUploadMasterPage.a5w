@@ -165,7 +165,7 @@ end if
 %>
 <html>
 <head>
-<meta name="generator" content="Alpha Five HTML Editor Version 12 Build 4491-4932">
+<meta name="generator" content="Alpha Five HTML Editor Version 12 Build 4726-5004">
 <!-- must use in order to make XP Themes render -->
 <meta HTTP-EQUIV="MSThemeCompatible" content="Yes" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -561,20 +561,28 @@ function showError(msg) {
 }
 
 
-function showResult(msg) { 
+function showResult(msg,closeHtml) { 
 	var wObj = window.parent.A5.windows.getFromElement('<%a5 ?fswindowname%>');
 	if(wObj) {
 			wObj.setButtonDisplay('OK',false);
 			wObj.setButtonDisplay('UPLOAD',false);
 			
+			var btnObj = wObj.getButton('Cancel');
+			btnObj.html = closeHtml;;
+			btnObj.refresh();
+
+			
+			
 			
 			
 	}	
+	
 	$('UPLOADMESSAGE').style.display = 'None'; 
 	$('UPLOADFORM').style.display = 'None'; 
 	$('ERRORS').style.display = ''; 
 	$('ERRORS').innerHTML = msg;
 }
+
 
 
 

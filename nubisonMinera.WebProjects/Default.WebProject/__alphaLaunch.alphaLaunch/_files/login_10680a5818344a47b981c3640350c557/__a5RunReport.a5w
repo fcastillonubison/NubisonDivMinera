@@ -701,8 +701,27 @@ if _download = "X" then
 		rowNumberSource = "" + request.variables._rowNumber
 	end if 
 	
+	dim flagSendEmail as c 
+	dim emailJSON as c = ""
+	if _xbasicFunction = "system:sendemail" then 
+		flagSendEmail = .t.
+		emailJSON = request.variables._sendemailsettingsJSON
+	end if 
+	
+	
 	js = js + _gridID +_objectName + "._executeEvent('afterAjaxCallbackComplete',{ ajaxEvent: 'printReport'});" + crlf()
-	js = js + _gridId + _objectName+".ajaxCallback('G','"+rowNumberSource+":all','"+_xbasicFunction+"','','fileSessionKey="+js_escape(fileSessionKey)+"&reportFilename="+js_escape(filename)+"');" + crlf()
+	
+	if flagSendEmail = .f. then 
+		js = js + _gridId + _objectName+".ajaxCallback('G','"+rowNumberSource+":all','"+_xbasicFunction+"','','fileSessionKey="+js_escape(fileSessionKey)+"&reportFilename="+js_escape(filename)+"');" + crlf()
+	else
+		dim afterevent as c 
+		if eval_valid("request.variables._afterExecuteJavascript") then 
+			afterevent = request.variables._afterExecuteJavascript
+			afterevent = "afterReportJavascript=" + js_escape(afterevent) + "&"
+		end if 
+		
+		js = js + _gridId + _objectName+".ajaxCallback('G','"+rowNumberSource+":all','"+_xbasicFunction+"','','"+afterevent+"emailsendJSON="+js_escape(emailjson)+"&fileSessionKey="+js_escape(fileSessionKey)+"&reportFilename="+js_escape(filename)+"');" + crlf()
+	end if 
 	
 	?js
 	end 'end processing'

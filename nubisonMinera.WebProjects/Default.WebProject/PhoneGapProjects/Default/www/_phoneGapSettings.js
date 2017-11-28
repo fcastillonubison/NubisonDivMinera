@@ -17,7 +17,7 @@ function _phoneGapSettings() {
         "disable-cursor": "false",
         "android-minSdkVersion": "16",
         "android-installLocation": "internalOnly",
-        "phonegap-version": "cli-6.5.0",
+        "phonegap-version": "cli-7.0.1",
         "FadeSplashScreen": "true",
         "FadeSplashScreenDuration": "2",
         "EnableViewportScale": "true",
@@ -38,25 +38,19 @@ function _phoneGapSettings() {
         "LoadUrlTimeoutValue": "20000",
         "AndroidPersistentFileLocation": "Internal",
         "android-build-tool": "gradle",
-        "windows-appx-target": "uap"
+        "windows-appx-target": "uap",
+        "pgb-builder-version": "1"
     },
     "plugins": {
-        "pushwoosh-pgb-plugin": "npm",
-        "cordova-plugin-device": "npm",
         "cordova-plugin-network-information": "npm",
-        "cordova-plugin-dialogs": "npm",
         "cordova-plugin-splashscreen": "npm",
-        "cordova-plugin-statusbar": "npm",
-        "cordova-plugin-x-toast": "npm",
         "cordova-plugin-whitelist": "npm",
-        "cordova-sqlite-ext": "npm",
-        "phonegap-plugin-barcodescanner": "npm",
-        "cordova-plugin-camera": "npm",
         "cordova-plugin-media-capture": "npm",
-        "https://github.com/Rohfosho/CordovaCallNumberPlugin.git": "git",
-        "cordova-sms-plugin": "npm",
-        "cordova-plugin-contacts": "npm",
-        "cordova-plugin-console": "npm"
+        "cordova-plugin-device": "npm",
+        "cordova-plugin-file": "npm",
+        "cordova-plugin-dialogs": "npm",
+        "phonegap-plugin-barcodescanner": "npm",
+        "cordova-media-with-compression": "npm"
     }
 };
 }

@@ -1,10 +1,10 @@
-A5SaveTimeStamp:20171115152913310
+A5SaveTimeStamp:20171127110152748
 css:iOS7
 cssIcon:font-awesome
 subComponent:admin.a5wcmp
 subComponent:tec.a5wcmp
-copyfile:{C:\Users\Desarrollador\Documents\Prototipo Nubison division Minera\nubisonMinera.WebProjects\Default.WebProject\img\logoNubison.png}
+copyfile:{C:\Users\Desarrollador\Documents\Prototipo Nubison division Minera\nubisonMinera.WebProjects\Default.WebProject\img\icons8-earth-element-96.png}
 subComponent:admin
 subComponent:tec
-precomputedUXComponent: {functionName: 'PRECOMPUTEDUX_d5393668c0c641998673540a6fdf4ea0_admin', uxname: 'admin', alias: '{alias}_ADMIN_155030IAIH'}
-precomputedUXComponent: {functionName: 'PRECOMPUTEDUX_66feba512c5b401e80e7becd0a672ea7_tec', uxname: 'tec', alias: '{alias}_TEC_14140EKMB'}
+precomputedUXComponent: {functionName: 'PRECOMPUTEDUX_53460ba5c4974a358fbfad69a6242e2f_admin', uxname: 'admin', alias: '{alias}_ADMIN_11150HBEM'}
+precomputedUXComponent: {functionName: 'PRECOMPUTEDUX_3629417bdb31440994e05062ce967268_tec', uxname: 'tec', alias: '{alias}_TEC_11111KTGW'}

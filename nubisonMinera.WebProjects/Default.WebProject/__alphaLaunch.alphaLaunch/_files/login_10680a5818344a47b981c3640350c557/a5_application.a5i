@@ -168,10 +168,10 @@ dim gv.__buildNumberExe__ as n
 dim gv.__buildNumberAddins__ as n 
 dim gv.__guid as c 
 dim gv.__A5PublishVersion as n 
-gv.__A5PublishTimestamp = 2017343409163458429
-gv.__buildNumberExe__ = 4491
-gv.__buildNumberAddins__ = 4932
-gv.__guid = "497602e9-a68c-4be1-bd41-922120cd7278"
+gv.__A5PublishTimestamp = 2017772317072928
+gv.__buildNumberExe__ = 4726
+gv.__buildNumberAddins__ = 5004
+gv.__guid = "e7f52346-8a31-430d-86d5-be68424e817c"
 gv.__control = <<%txtcontrol%
 hV7+2zUTjP0=
 %txtcontrol%
